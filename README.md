@@ -11,20 +11,20 @@ Jeśli chodzi o programowanie to umiem co nieco w Pythonie i C++, zamierzam jesz
 ## Mój sprzęt:
 
 ### Komputer:
-OS: Windows 10 / Ubuntu
-CPU: Intel Core i5-2400
-GPU: GTX 660 2 GB
-RAM: 8 GB DDR3 1600 MHz
+OS: Windows 10 / Ubuntu  
+CPU: Intel Core i5-2400  
+GPU: GTX 660 2 GB  
+RAM: 8 GB DDR3 1600 MHz  
 
 ### Laptop (główny sprzęt):
-OS: Windows 10
-CPU: AMD Ryzen R5-5600H
-GPU: RTX 3050 4 GB
-RAM: 16 GB DDR4 3200 MHz
+OS: Windows 10  
+CPU: AMD Ryzen R5-5600H  
+GPU: RTX 3050 4 GB  
+RAM: 16 GB DDR4 3200 MHz  
 
 ### Drugi laptop (używany tylko do testów):
-OS: Windows 8.1 / zależy co na nim zainstaluję
-CPU: Intel Core i3 6006U
-GPU: AMD Radeon R5 M430 2 GB
-RAM: 4 GB DDR4 2133 MHz
+OS: Windows 8.1 / zależy co na nim zainstaluję  
+CPU: Intel Core i3 6006U  
+GPU: AMD Radeon R5 M430 2 GB  
+RAM: 4 GB DDR4 2133 MHz  
 
