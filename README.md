@@ -1,15 +1,12 @@
-### Hi there 👋
+### Witam na moim profilu GitHub!
 
-**Jewar-PL/Jewar-PL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem Jewar (niestety tak, to ten od Białego Busa, tego mema z chyba 2021???), chodzę do technikum i uczę się programowania oraz web developmentu.
+Nie będę kłamał, jeszcze jestem początkujący, ale zamierzam się szybko uczyć.
 
-Here are some ideas to get you started:
+### Co narazie umiem?
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: He/They
-- ⚡ Fun fact: No
+Obecnie nie za dużo, ale ostatnio skupiam się na nauce HTML, CSS, JS i różnych frameworków
+Jeśli chodzi o programowanie to umiem co nieco w Pythonie i C++, zamierzam jeszcze podjąć się nauki C# oraz Javy
 
+### Mój sprzęt:
+(tba)
