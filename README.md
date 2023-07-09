@@ -5,8 +5,7 @@ Nie będę kłamał, jeszcze jestem początkujący, ale zamierzam się szybko uc
 
 ## Co narazie umiem?
 
-Obecnie nie za dużo, ale ostatnio skupiam się na nauce HTML, CSS, JS i różnych frameworków
-Jeśli chodzi o programowanie to umiem co nieco w Pythonie i C++, zamierzam jeszcze podjąć się nauki C# oraz Javy
+Ostatnio to głównie bawię się w Typescript i tego typu rzeczy. Umiem też co nieco w C++, Rust, Pythonie, C# i Javie
 
 ## Mój sprzęt:
 
