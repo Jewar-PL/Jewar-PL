@@ -1,12 +1,20 @@
-# Witam na moim profilu Github
-Obecnie nie mam żadnych publicznych repo, lecz wkrótce się to (mam nadzieję) zmieni. Jestem jeszcze dosyć początkujący, lecz szybko się rozwijam.
+<h1 align="center">Witaj na moim profilu 👋</h1>
+<h3 align="center">Jestem Jewar, młody technik programista i twórca gier z Łodzi</h3>
 
-## Czym się zajmuję?
-Głównie piszę w Typescript jakieś rzeczy dla zabawy, czasem się pobawię w C++ lub C#.
+## 📅 Moje hobby
+- Poszerzanie wiedzy i rozwijanie umiejętności programistycznych
+- Tworzenie gier w Scratch'u, Clickteam Fusion 2.5, Unity, itp.
+- Granie w gry wideo
+- Majstrowanie przy komputerach i konsolach
+- Rysowanie (bardzo rzadko)
 
-## Mój sprzęt
-Głównie korzystam z laptopa o następujących parametrach:
-- OS: Windows 11 (+ WSL Ubuntu)
-- CPU: AMD Ryzen R5-5600H
-- GPU: RTX 3050 4GB
-- RAM: 16 GB DDR4
+## 💻 Projekty, nad którymi pracuję
+- Mati Clicker [WIP] - projekt szkolny
+- One Night at Zlewy 3 [WIP] - projekt poboczny
+- PRANKSTER POLAK [WIP] - projekt główny, obecnie wstrzymany
+
+## 📚 Obecnie uczę się
+- SFML
+- Next.js
+- Unity
+~~- języka polskiego~~
