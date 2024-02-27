@@ -9,7 +9,6 @@
 - Rysowanie (bardzo rzadko)
 
 ## 💻 Projekty, nad którymi pracuję
-- Mati Clicker [WIP] - projekt szkolny
 - One Night at Zlewy 3 [WIP] - projekt poboczny
 - PRANKSTER POLAK [WIP] - projekt główny, obecnie wstrzymany
 
@@ -17,4 +16,4 @@
 - SFML
 - Next.js
 - Unity
-~~- języka polskiego~~
+- ~~języka polskiego~~
